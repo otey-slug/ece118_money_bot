@@ -5,8 +5,8 @@ Autonomous mechatronics robot for pingpong launching, including design docs, sch
 
 This repository now includes a static showcase page for the final competition robot:
 
-- `/home/runner/work/ece118_money_bot/ece118_money_bot/otey-slug/ece118_money_bot/index.html`
-- `/home/runner/work/ece118_money_bot/ece118_money_bot/otey-slug/ece118_money_bot/styles.css`
+- `index.html`
+- `styles.css`
 
 ### View locally
 
